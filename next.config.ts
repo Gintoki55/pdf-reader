@@ -1,9 +1,6 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  experimental: {
-   serverExternalPackages: ["unpdf"],
-  },
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  serverExternalPackages: ["unpdf"],  // ← خارج experimental
 };
 
-export default nextConfig;
+module.exports = nextConfig;

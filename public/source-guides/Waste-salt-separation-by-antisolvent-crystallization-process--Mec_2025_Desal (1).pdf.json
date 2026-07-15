@@ -1,0 +1,302 @@
+{
+  "fileId": "Waste-salt-separation-by-antisolvent-crystallization-process--Mec_2025_Desal (1).pdf",
+  "filename": "Waste-salt-separation-by-antisolvent-crystallization-process--Mec_2025_Desal (1).pdf",
+  "title": "Waste salt separation by antisolvent crystallization process: Mechanism study of Na2SO4-NaCl-solvent ternary phase diagrams and its life cycle assessment",
+  "summary": "This paper investigates the antisolvent crystallization (ASC) method for separating Na2SO4 and NaCl from industrial pyrolyzed waste salt, including a mechanism study and life cycle assessment. Methanol was identified as an effective antisolvent, achieving high purity and yield for both salts. Ternary phase diagrams elucidated the preferential crystallization of Na2SO4 due to solubility differences in methanol-water systems. The study concludes that the ASC process, with methanol recovery and reuse, offers excellent economic and environmental feasibility for waste salt reutilization.",
+  "keyTopics": [
+    "Waste salt separation",
+    "Antisolvent crystallization",
+    "Ternary phase diagrams",
+    "Methanol recycling",
+    "Life cycle assessment",
+    "Na2SO4-NaCl",
+    "Resource recovery"
+  ],
+  "figures": [
+    {
+      "number": "Figure 1",
+      "caption": "Antisolvent crystallization separation of mixed salt solutions: (a) Process flow diagram; (b) System boundaries diagram.",
+      "page": 2
+    },
+    {
+      "number": "Figure 2",
+      "caption": "Evaluation of Crystallization Salt Separation Efficiency by Different Antisolvents: (a) Crystalline salt yield with antisolvent to salt solution at a volume ratio of",
+      "page": 4
+    },
+    {
+      "number": "Figure 3",
+      "caption": "Effects of antisolvents type and dosage: (a) Methanol recovery rate at different recovery times; (b) Methanol recovery rate at different recovery temperatures;",
+      "page": 5
+    },
+    {
+      "number": "Figure 4",
+      "caption": "Separation efficiency of actual waste salt using antisolvent and evaporation process: (a) Salt purity at 1:1 methanol-to-salt ratio; (b) Salt purity at 2:1",
+      "page": 6
+    },
+    {
+      "number": "Figure 5",
+      "caption": "Morphological and structural analysis of the waste salt WSC treatment process: (a) XRD pattern of separated NaCl; (b) XRD pattern of separated Na2SO4; (c)",
+      "page": 8
+    },
+    {
+      "number": "Figure 6",
+      "caption": "Ternary phase diagram and reaction mechanism of NaCl-Na2SO4-Solvent in the ASC: (a) ASC reaction process diagram; (b) Methanol and water are mixed at a",
+      "page": 9
+    },
+    {
+      "number": "Figure 7",
+      "caption": "Environmental impacts of treating 1 ton of waste salt by ASC process (a) Climate Change (kg CO2 eq.); (b) Human Toxicity (kg 1,4-DCB eq.); (c) Energy",
+      "page": 10
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "caption": "Operational costing for processing 1 ton of waste salt.",
+      "page": 10
+    }
+  ],
+  "references": [
+    {
+      "number": "1",
+      "authors": "H",
+      "title": "Xin, X. Chen, S. Lin, et al., Resource utilization of coal chemical waste salt by bipolar membrane electrodialysis with thermal pretreatment[J], Desalination 580 (2024) 117553",
+      "url": ""
+    },
+    {
+      "number": "2",
+      "authors": "X",
+      "title": "Wang, Y. Li, T. Shao, et al., Simultaneous purification of salt and condensate by collaborated evaporation-peroxodisulfate treatment of high salinity organic wastewater[J], Sep. Purif. Technol. 347 (2024) 127703",
+      "url": ""
+    },
+    {
+      "number": "3",
+      "authors": "R",
+      "title": "Alam, S.U. Khan, M. Usman, et al., A critical review on treatment of saline wastewater with emphasis on electrochemical based approaches[J], Process. Saf. Environ. Prot. 158 (2022) 625–643",
+      "url": ""
+    },
+    {
+      "number": "4",
+      "authors": "X",
+      "title": "Wang, Y. Gong, J. Qin, et al., Deep removal of organic matter in glyphosate contained industrial waste salt by dielectric barrier discharge plasma[J], J. Environ. Chem. Eng. 9 (5) (2021) 106295",
+      "url": ""
+    },
+    {
+      "number": "5",
+      "authors": "Z",
+      "title": "Ding, J. Wu, D. Jiang, Discussion on key technical issues of intelligent roadway heading equipment of coal mine[J], China Coal 46 (11) (2020) 58–62",
+      "url": ""
+    },
+    {
+      "number": "6",
+      "authors": "L",
+      "title": "Feng, B. Tian, L. Zhang, et al., Pyrolysis of hydrazine hydrate waste salt: thermal behaviors and transformation characteristics of organics under aerobic/anaerobic conditions[J], J. Environ. Manag. 323 (2022) 116304",
+      "url": ""
+    },
+    {
+      "number": "7",
+      "authors": "S",
+      "title": "Xi, X. Wei, J. Ding, et al., The removal of organic contaminants from industrial waste salts by pyrolysis and potential use for energy storage[J], J. Clean. Prod. 425 (2023) 138931",
+      "url": ""
+    },
+    {
+      "number": "8",
+      "authors": "X",
+      "title": "Liu, Y. Guo, G. Zhang, et al., Understanding and controlling the key crystal phase transformation for recovery of sodium chloride from organic waste salt[J], Surfaces and Interfaces 27 (2021) 101499",
+      "url": ""
+    },
+    {
+      "number": "9",
+      "authors": "C",
+      "title": "Morgante, X. Ma, X. Chen, et al., Metal-organic-framework-based nanofiltration membranes for selective multi-cationic recovery from seawater and brines[J], J. Membr. Sci. 685 (2023) 121941",
+      "url": ""
+    },
+    {
+      "number": "10",
+      "authors": "X",
+      "title": "Ruan, M. Song, Z. Fang, et al., Methods to treat industrial salted waste: a review [J], Environ. Chem. Lett. 22 (4) (2024) 2035–2053",
+      "url": ""
+    },
+    {
+      "number": "11",
+      "authors": "A",
+      "title": "Giwa, V. Dufour, F. Al Marzooqi, et al., Brine management methods: recent innovations and current status[J], Desalination 407 (2017) 1–23",
+      "url": ""
+    },
+    {
+      "number": "12",
+      "authors": "S",
+      "title": "Annamalai, K. Chandrasekaran, W.S. Shin, et al., Beyond dumping: new strategies in the separation of preservative salt from tannery waste mixed salt and its reuse for tannery industrial application[J], Environ. Res. 214 (2022) 113885",
+      "url": ""
+    },
+    {
+      "number": "13",
+      "authors": "K",
+      "title": "Li, W. Ma, H. Han, et al., Selective recovery of salt from coal gasification brine by nanofiltration membranes[J], J. Environ. Manag. 223 (2018) 306–313",
+      "url": ""
+    },
+    {
+      "number": "14",
+      "authors": "J",
+      "title": "Wu, A.E. Contreras, Q. Li, Studying the impact of RO membrane surface functional groups on alginate fouling in seawater desalination[J], J. Membr. Sci. 458 (2014) 120–127",
+      "url": ""
+    },
+    {
+      "number": "15",
+      "authors": "Y",
+      "title": "Suo, Y. Ren, Research on the mechanism of nanofiltration membrane fouling in zero discharge process of high salty wastewater from coal chemical industry[J], Chem. Eng. Sci. 245 (2021) 116810",
+      "url": ""
+    },
+    {
+      "number": "16",
+      "authors": "W",
+      "title": "Xu, Y. Xi, L. Zhang, et al., Thermodynamic properties of evaporative crystallization of high-salt wastewater[J], Chem. Eng. Res. Des. 196 (2023) 144–157",
+      "url": ""
+    },
+    {
+      "number": "17",
+      "authors": "J",
+      "title": "Fang, C. Shi, L. Zhang, et al., Kinetic characteristics of evaporative crystallization desalination of acidic high-salt wastewater[J], Chem. Eng. Res. Des. 187 (2022) 129–139",
+      "url": ""
+    },
+    {
+      "number": "18",
+      "authors": "S",
+      "title": "Zhou, L. Gong, X. Liu, et al., Mathematical modeling and performance analysis for multi-effect evaporation/multi-effect evaporation with thermal vapor compression desalination system[J], Appl. Therm. Eng. 159 (2019) 113759",
+      "url": ""
+    },
+    {
+      "number": "19",
+      "authors": "K",
+      "title": "Madane, V.V. Ranade, Anti-solvent crystallization: particle size distribution with different devices[J], Chem. Eng. J. 446 (2022) 137235",
+      "url": ""
+    },
+    {
+      "number": "20",
+      "authors": "P.A.J",
+      "title": "Rosa, A.M. Azevedo, S. Sommerfeld, et al., Aqueous two-phase extraction as a platform in the biomanufacturing industry: economical and environmental sustainability[J], Biotechnol. Adv. 29 (6) (2011) 559–567",
+      "url": ""
+    },
+    {
+      "number": "21",
+      "authors": "B.H",
+      "title": "Gu, P. Zheng, Q. Yan, et al., Aqueous two-phase system: an alternative process for recovery of succinic acid from fermentation broth[J], Sep. Purif. Technol. 138 (2014) 47–54",
+      "url": ""
+    },
+    {
+      "number": "22",
+      "authors": "C",
+      "title": "Stetson, D. Prodius, H. Lee, et al., Solvent-driven fractional crystallization for atom-efficient separation of metal salts from permanent magnet leachates[J], Nat. Commun. 13 (1) (2022) 3789",
+      "url": ""
+    },
+    {
+      "number": "23",
+      "authors": "J",
+      "title": "Wang, X. Hong, G. Fang, et al., Deep purification of pesticide waste salt containing high-concentration organic pollutants by ethanol solvents washing and heating treatment[J], J. Environ. Chem. Eng. 12 (3) (2024) 112480",
+      "url": ""
+    },
+    {
+      "number": "24",
+      "authors": "L",
+      "title": "Feng, B. Tian, L. Chen, et al., Purification and recovery of NaCl from epoxy resin waste salt through an integrated process based on aqueous two-phase systems (ATPS)[J], J. Environ. Chem. Eng. 12 (3) (2024) 113091",
+      "url": ""
+    },
+    {
+      "number": "25",
+      "authors": "J",
+      "title": "Li, J. Zheng, X. Peng, et al., NaCl recovery from organic pollutants-containing salt waste via dual effects of aqueous two-phase systems (ATPS) and crystal regulation with acetone[J], J. Clean. Prod. 260 (2020) 121044",
+      "url": ""
+    },
+    {
+      "number": "26",
+      "authors": "T",
+      "title": "Varadavenkatesan, S. Pai, R. Vinayagam, et al., Recovery of value-added products from wastewater using aqueous two-phase systems – a review[J], Sci. Total Environ. 778 (2021) 146293",
+      "url": ""
+    },
+    {
+      "number": "27",
+      "authors": "J",
+      "title": "Han, Y. Wu, Y. Xiang, et al., Liquid–liquid equilibria of hydrophilic alcohol+ sodium hydroxide+water systems: experimental and correlation[J], Thermochim. Acta 566 (2013) 261–267",
+      "url": ""
+    },
+    {
+      "number": "28",
+      "authors": "H.S",
+      "title": "Ng, P.E. Kee, H.S. Yim, et al., Characterization of alcohol/salt aqueous two- phase system for optimal separation of gallic acids[J], J. Biosci. Bioeng. 131 (5) (2021) 537–542",
+      "url": ""
+    },
+    {
+      "number": "29",
+      "authors": "G",
+      "title": "Raluy, L. Serra, J. Uche, Life cycle assessment of MSF, MED and RO desalination technologies[J], Energy 31 (13) (2006) 2361–2372",
+      "url": ""
+    },
+    {
+      "number": "30",
+      "authors": "J",
+      "title": "Ju, Y. Feng, H. Li, et al., An eco-friendly approach for NaCl recovery from organic pollutants-containing waste salt by roasting together with low-grade pyrolusite[J], Environ. Technol. Innov. 24 (2021) 101903",
+      "url": ""
+    },
+    {
+      "number": "31",
+      "authors": "P",
+      "title": "Sahu, B. Gao, S. Bhatti, et al., Process design framework for inorganic salt recovery using Antisolvent crystallization (ASC)[J], ACS Sustain. Chem. Eng. 12 (1) (2024) 154–165",
+      "url": ""
+    },
+    {
+      "number": "32",
+      "authors": "Y",
+      "title": "Li, Y. Zhao, R. Huang, et al., A thermodynamic study on the phase behaviour of ethanol and 2-propanol in aqueous ammonium sulphate/sodium sulphate solution [J], J. Mol. Liq. 211 (2015) 924–933",
+      "url": ""
+    },
+    {
+      "number": "33",
+      "authors": "Y",
+      "title": "Ma, M. Akbarkermani, M. Sv¨ard, et al., Phase diagrams of CoSO4-H2O and CoSO4-H2SO4-H2O systems for CoSO4⋅nH2O (n = 6,7) recovery by cooling and eutectic freeze crystallization[J], Hydrometallurgy 227 (2024) 106332",
+      "url": ""
+    },
+    {
+      "number": "34",
+      "authors": "P",
+      "title": "Bharmoria, P.S. Gehlot, H. Gupta, et al., Temperature-dependent solubility transition of Na2SO4 in water and the effect of NaCl therein: solution structures and salt water dynamics[J], J. Phys. Chem. B 118 (44) (2014) 12734–12742",
+      "url": ""
+    },
+    {
+      "number": "35",
+      "authors": "S",
+      "title": "Bhatti, P. Sahu, H.R. Masani, et al., Process integration and techno-economic assessment of crystallization techniques for Na2SO4 and NaCl recovery from saline effluents[J], Chem. Eng. Process. Process Intensif. 203 (2024) 109879",
+      "url": ""
+    },
+    {
+      "number": "36",
+      "authors": "A.V",
+      "title": "Dighe, P.K.R. Podupu, P. Coliaie, et al., Three-step mechanism of Antisolvent crystallization[J], Cryst. Growth Des. 22 (5) (2022) 3119–3127",
+      "url": ""
+    },
+    {
+      "number": "37",
+      "authors": "S.S",
+      "title": "Dette, T. Stelzer, M.J. Jones, et al., Dehydration behaviour of hydrates[J], Cryst. Res. Technol. 45 (7) (2010) 697–702",
+      "url": ""
+    },
+    {
+      "number": "38",
+      "authors": "S",
+      "title": "Piana, F. Jones, J.D. Gale, Assisted Desolvation as a key kinetic step for crystal growth[J], J. Am. Chem. Soc. 128 (41) (2006) 13568–13574",
+      "url": ""
+    },
+    {
+      "number": "39",
+      "authors": "A.V",
+      "title": "Dighe, M.R. Singh, Solvent fluctuations in the solvation shell determine the activation barrier for crystal growth rates[J], Proc. Natl. Acad. Sci. 116 (48) (2019) 23954–23959",
+      "url": ""
+    },
+    {
+      "number": "40",
+      "authors": "X",
+      "title": "Huang, H. Wang, M. Song, et al., Comparative organic pollutants removal efficiency and life cycle assessment of pyrolysis and solvent elution for industrial waste salt recycling[J], J. Environ. Manag. 371 (2024) 123218. X. Huang et al. Desalination 613 (2025) 118985 11",
+      "url": ""
+    }
+  ],
+  "generatedFrom": "v3"
+}

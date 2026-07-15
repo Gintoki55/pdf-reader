@@ -1,41 +1,75 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# -------------------------
+# Node / Next.js
+# -------------------------
+node_modules/
+.next/
+out/
+build/
+coverage/
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
+# -------------------------
+# Python
+# -------------------------
+venv/
+venv-indexing/
+__pycache__/
+*.py[cod]
 
-# testing
-/coverage
+# -------------------------
+# Environment
+# -------------------------
+.env
+.env.*
+service-account.json
 
-# next.js
-/.next/
-/out/
-
-# production
-/build
-
-# misc
+# -------------------------
+# macOS
+# -------------------------
 .DS_Store
-*.pem
 
-# debug
+# -------------------------
+# Logs
+# -------------------------
+*.log
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
+pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# -------------------------
+# Generated indexing data
+# -------------------------
+indexed.json
+images_indexed.json
+refs_debug_output.txt
 
-# vercel
-.vercel
+# -------------------------
+# PDFs (don't upload research papers)
+# -------------------------
+pdfs/
 
-# typescript
+# -------------------------
+# Generated images
+# -------------------------
+extracted_images/
+
+# -------------------------
+# Qdrant local storage
+# -------------------------
+data/
+
+# -------------------------
+# IDE
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# TypeScript
+# -------------------------
 *.tsbuildinfo
 next-env.d.ts
+
+# -------------------------
+# Vercel
+# -------------------------
+.vercel/

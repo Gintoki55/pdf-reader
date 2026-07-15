@@ -1,0 +1,705 @@
+{
+  "fileId": "Vapor-induced-phase-separation-PVDF-membranes-incorporating-alky_2025_Desali.pdf",
+  "filename": "Vapor-induced-phase-separation-PVDF-membranes-incorporating-alky_2025_Desali.pdf",
+  "title": "Enhanced PVDF Membranes with Modified Silica Nanoparticles for Direct Contact Membrane Distillation",
+  "summary": "This paper investigates the development of polyvinylidene fluoride (PVDF) membranes modified with superhydrophobic silica nanoparticles for direct contact membrane distillation (DCMD). The study utilizes a vapor-induced phase separation (VIPS) process to prepare the membranes, focusing on improving their hydrophobicity and resistance to wetting. Key findings indicate that the addition of functionalized nanoparticles significantly increases the water contact angle and liquid entry pressure, achieving superhydrophobic properties. While higher nanoparticle loading slightly reduces water flux due to decreased pore size, it substantially enhances salt rejection and overall DCMD performance, making these membranes competitive for desalination applications.",
+  "keyTopics": [
+    "DCMD",
+    "PVDF membranes",
+    "Silica nanoparticles",
+    "Superhydrophobicity",
+    "Membrane wetting",
+    "VIPS process",
+    "Desalination",
+    "Membrane characterization"
+  ],
+  "figures": [
+    {
+      "number": "Figure 1",
+      "caption": "Synthesis and characterization of the modified NPs. (a) Scheme of the reaction between the silanol groups of SiO2 and octadecylsilanetriol (arising from the",
+      "page": 4
+    },
+    {
+      "number": "Figure 2",
+      "caption": "Morphology of the membranes as characterized by FE-SEM. The thickness “h” could be determined from this analysis and is indicated on the images showing",
+      "page": 5
+    },
+    {
+      "number": "Figure 3",
+      "caption": "Characterization of the physical properties of the membranes (a) mean bulk pore size as determined by capillary flow porometry; (b) mean bulk porosity as",
+      "page": 6
+    },
+    {
+      "number": "Figure 4",
+      "caption": "Effect of the addition of NPs on the surface chemistry of the membranes. (a) Surface silicon content from an XPS analysis; (b) S2p narrow scans for NP0",
+      "page": 7
+    },
+    {
+      "number": "Figure 5",
+      "caption": "Water contact angle in air (a) and liquid entry pressure (b) of the different modified membranes (NP0.5 to N2), compared to NP0.",
+      "page": 7
+    },
+    {
+      "number": "Figure 6",
+      "caption": "Direct contact membrane distillation performances of the virgin (NP0) and modified (NP0.5 to NP2) membranes over the 3 h long test, using NaCl 35 g/L as",
+      "page": 8
+    },
+    {
+      "number": "Figure 7",
+      "caption": "Direct contact membrane distillation performances of the virgin (NP0) and modified (NP1.5) membranes over the 3 h long test, using NaCl solution 1 M as",
+      "page": 10
+    },
+    {
+      "number": "Figure 8",
+      "caption": "Direct contact membrane distillation performances of the virgin (NP0) and modified (NP1.5) membranes over the 3 h long test, using sea water as feed. (a)",
+      "page": 10
+    },
+    {
+      "number": "Figure 9",
+      "caption": "Direct contact membrane distillation performances of the virgin (NP0) and modified (NP1.5) membranes over the 3 h long test, using a PFOA solution as feed.",
+      "page": 12
+    },
+    {
+      "number": "Figure 10",
+      "caption": "Performances of the virgin (NP0) and modified (NP1.5) membranes during wetting tests. Flux of NP0 (a) and of NP1.5 (d); Salt rejection and conductivity of",
+      "page": 12
+    },
+    {
+      "number": "Figure 11",
+      "caption": "Performances of the virgin (NP0) and modified (NP1.5) membranes during scaling tests. (a) Flux (b) Salt rejection and conductivity; (c) SEM observations",
+      "page": 13
+    },
+    {
+      "number": "Figure 12",
+      "caption": "Direct contact membrane distillation performances of the modified membrane over a 70 h-long test, using sea water as feed. (a) Water flux kinetics; (b) Salt",
+      "page": 14
+    }
+  ],
+  "tables": [
+    {
+      "number": "Table 1",
+      "caption": "Comparison of the DCMD performances of the PVDF membranes prepared in this study with other PVDF-based VIPS flat-sheet membranes, and state-of-the-art PVDF-",
+      "page": 9
+    },
+    {
+      "number": "Table 2",
+      "caption": "Comparison of the DCMD performances of NP1.5 membrane with other polymeric membranes applied to the desalination of real sea water. When multiple temperature",
+      "page": 11
+    }
+  ],
+  "references": [
+    {
+      "number": "1",
+      "authors": "B.B",
+      "title": "Ashoor, S. Mansour, A. Giwa, V. Dufour, S.W. Hasan, Principles and applications of direct contact membrane distillation (DCMD): a comprehensive review, Desalination 398 (2016) 222–246",
+      "url": ""
+    },
+    {
+      "number": "2",
+      "authors": "M",
+      "title": "Khraisheh, F. AlMomani, M. Al-Ghouti, Electrospun Al2O3 hydrophobic functionalized membranes for heavy metal recovery using direct contact membrane distillation, Int. J. Energy Res. 45 (2021) 8151–8167",
+      "url": ""
+    },
+    {
+      "number": "3",
+      "authors": "S",
+      "title": "Ryu, G. Naidu, M.A. Johir, Y. Choi, S. Jeong, S. Vigneswaran, Acid mine drainage treatment by integrated submerged membrane distillation-sorption system, Chemosphere 218 (2019) 955–965",
+      "url": ""
+    },
+    {
+      "number": "4",
+      "authors": "H.Y",
+      "title": "Liu, J.L. Wang, Treatment of radioactive wastewater using direct contact membrane distillation, J. Hazard. Mater. 261 (2013) 307–315",
+      "url": ""
+    },
+    {
+      "number": "5",
+      "authors": "M",
+      "title": "Khayet, Treatment of radioactive wastewater solutions by direct contact membrane distillation using surface modified membranes, Desalination 321 (2013) 60–66",
+      "url": ""
+    },
+    {
+      "number": "6",
+      "authors": "R",
+      "title": "Zheng, Y. Chen, J. Wang, J.F. Song, X.M. Li, T. He, Preparation of omniphobic PVDF membrane with hierarchical structure for treating saline oily wastewater using direct contact membrane distillation, J. Membr. Sci. 555 (2018) 197–205",
+      "url": ""
+    },
+    {
+      "number": "7",
+      "authors": "C.X",
+      "title": "Li, X.S. Li, X.W. Du, T.Z. Tong, T.Y. Cath, J. Lee, Antiwetting and antifouling Janus membrane for desalination of saline oily wastewater by membrane distillation, ACS Appl. Mater. Interfaces 11 (2019) 18456–18465",
+      "url": ""
+    },
+    {
+      "number": "8",
+      "authors": "A",
+      "title": "Yousefi, K. Moradi, P. Karami, M.D. Firouzjaei, M. Elliott, A. Rahimpour, M. Sadrzadeh, Evaluating the efficiency of modified hydrophobic PVDF membrane for the removal of PFOA substances from water by direct contact membrane distillation, Desalination 579 (2024)",
+      "url": ""
+    },
+    {
+      "number": "9",
+      "authors": "D.Y",
+      "title": "Hou, J. Wang, D. Qu, Z.K. Luan, C.W. Zhao, X.J. Ren, Preparation of hydrophobic PVDF hollow fiber membranes for desalination through membrane distillation, Water Sci. Technol. 59 (2009) 1219–1226",
+      "url": ""
+    },
+    {
+      "number": "10",
+      "authors": "Y.B",
+      "title": "Yun, R.Y. Ma, W.Z. Zhang, A.G. Fane, J.D. Li, Direct contact membrane distillation mechanism for high concentration NaCl solutions, Desalination 188 (2006) 251–262",
+      "url": ""
+    },
+    {
+      "number": "11",
+      "authors": "S",
+      "title": "Bonyadi, T.S. Chung, Flux enhancement in membrane distillation by fabrication of dual layer hydrophilic-hydrophobic hollow fiber membranes, J. Membr. Sci. 306 (2007) 134–146",
+      "url": ""
+    },
+    {
+      "number": "12",
+      "authors": "M",
+      "title": "Gryta, M. Barancewicz, Influence of morphology of PVDF capillary membranes on the performance of direct contact membrane distillation, J. Membr. Sci. 358 (2010) 158–167",
+      "url": ""
+    },
+    {
+      "number": "13",
+      "authors": "X",
+      "title": "Yang, R. Wang, L. Shi, A.G. Fane, M. Debowski, Performance improvement of PVDF hollow fiber-based membrane distillation process, J. Membr. Sci. 369 (2011) 437–447",
+      "url": ""
+    },
+    {
+      "number": "14",
+      "authors": "J.A",
+      "title": "Prince, G. Singh, D. Rana, T. Matsuura, V. Anbharasi, T. S. Shanmugasundaram, Preparation and characterization of highly hydrophobic poly(vinylidene fluoride) - clay nanocomposite nanofiber membranes (PVDF-clay NNMs) for desalination using direct contact membrane distillation, J. Membr. Sci. 397 (2012) 80–86",
+      "url": ""
+    },
+    {
+      "number": "15",
+      "authors": "Z.L",
+      "title": "Cui, J. Pan, Z.H. Wang, M. Frappa, E. Drioli, F. Macedonio, Hyflon/PVDF membranes prepared by NIPS and TIPS: comparison in MD performance, Sep. Purif. Technol. 247 (2020) 116992",
+      "url": ""
+    },
+    {
+      "number": "16",
+      "authors": "G",
+      "title": "Grasso, F. Galiano, M.J. Yoo, R. Mancuso, H.B. Park, B. Gabriele, A. Figoli, E. Drioli, Development of graphene-PVDF composite membranes for membrane distillation, J. Membr. Sci. 604 (2020) 118017",
+      "url": ""
+    },
+    {
+      "number": "17",
+      "authors": "X.J",
+      "title": "Yan, X.P. Lin, C. Ma, C.Y. Yang, T.Q. Xing, Hydrophobic C60-modified PVDF membrane with micro-nano structures for mitigating CaSO4 scaling in direct contact membrane distillation (DCMD), J. Environ. Chem. Eng. 12 (2024) 113605",
+      "url": ""
+    },
+    {
+      "number": "18",
+      "authors": "H.R",
+      "title": "Yang, Y.H. Huang, C.F. Wang, T.S. Chung, Green fabrication of PVDF superhydrophobic membranes using a green solvent triethyl phosphate (TEP) for membrane distillation, Desalination 566 (2023) 116934",
+      "url": ""
+    },
+    {
+      "number": "19",
+      "authors": "Y.B",
+      "title": "Xu, L.F. Ren, J. Li, C.Y. Wang, Y.B. Qiu, J.H. Shao, Y.L. He, Anti-wetting performance of an electrospun PVDF/PVP membrane modified by solvothermal treatment in membrane distillation, Membranes 13 (2023) 225",
+      "url": ""
+    },
+    {
+      "number": "20",
+      "authors": "W",
+      "title": "AbdulKadir, A.L. Ahmad, B.S. Ooi, A water-repellent PVDF-HNT membrane for high and low concentrations of oxytetracycline treatment via DCMD: an experimental investigation, Chem. Eng. J. 422 (2021) 129644",
+      "url": ""
+    },
+    {
+      "number": "21",
+      "authors": "R",
+      "title": "Liu, Q. Li, L. Gan, Y. Chen, Z. Tong, Robust, versatile, and hemicellulose- derived biocomposite Janus membrane for saline wastewater desalination, J. Membr. Sci. 697 (2024) 122566",
+      "url": ""
+    },
+    {
+      "number": "22",
+      "authors": "R",
+      "title": "Ouchn, Y. Chaouqi, A.H. Avci, S. Gmouh, E. Curcio, O. Cherkaoui, M. Hlaibi, Reliable and efficient membrane processes for clean and sustainable production of fresh water from saline waste, J. Chem. Technol. Biotechnol. 99 (2024) 1576–1588",
+      "url": ""
+    },
+    {
+      "number": "23",
+      "authors": "C",
+      "title": "Saldías, C.A. Terraza, A. Leiva, J. Koschikowski, D. Winter, A. Tundidor- Camba, R. Martin-Trasanco, PVDF composite membranes with hydrophobically- capped CuONPs for direct-contact membrane distillation, Nanomaterials (Basel) 11 (2021) 1497",
+      "url": ""
+    },
+    {
+      "number": "24",
+      "authors": "P.K",
+      "title": "Shakya, J. Bhattacharya, Scaling up of nanophotonics-enabled solar direct- contact membrane desalination system under ambient condition and sun tracking: challenges, remedies and performance report, Desalination 576 (2024) 117343",
+      "url": ""
+    },
+    {
+      "number": "25",
+      "authors": "S",
+      "title": "Ashrafian, E. Saljoughi, S.M. Mousavi, M. Jahanshahi, High-performance robust graphitic carbon nitride nanosheets embedded membranes for desalination through direct contact membrane distillation, J. Ind. Eng. Chem. 129 (2024) 243–266",
+      "url": ""
+    },
+    {
+      "number": "26",
+      "authors": "Y",
+      "title": "Zhao, C. Wang, L.-F. Ren, B. Zhang, J. Shao, Facile preparation of COF-LZU1 modified membrane via electrostatic spraying for emerging contaminants treatment in direct contact membrane distillation, Sep. Purif. Technol. 337 (2024) 126411",
+      "url": ""
+    },
+    {
+      "number": "27",
+      "authors": "I",
+      "title": "Chimanlal, L.N. Nthunya, O.T. Mahlangu, B. Kirkebæk, A. Ali, C.A. Quist- Jensen, H. Richards, Nanoparticle-enhanced PVDF flat-sheet membranes for seawater desalination in direct contact membrane distillation, Membranes 13 (2023) 317",
+      "url": ""
+    },
+    {
+      "number": "28",
+      "authors": "J.A",
+      "title": "Kharraz, M.U. Farid, N.K. Khanzada, B.J. Deka, H.A. Arafat, A.K. An, Macro- corrugated and nano-patterned hierarchically structured superomniphobic membrane for treatment of low surface tension oily wastewater by membrane distillation, Water Res. 174 (2020) 115600",
+      "url": ""
+    },
+    {
+      "number": "29",
+      "authors": "C",
+      "title": "Wang, Z. Ma, Y. Qiu, C. Wang, L.-F. Ren, J. Shen, J. Shao, Patterned dense Janus membranes with simultaneously robust fouling, wetting and scaling resistance for membrane distillation, Water Res. 242 (2023) 120308",
+      "url": ""
+    },
+    {
+      "number": "30",
+      "authors": "N",
+      "title": "Ismail, A. Venault, J.-P. Mikkola, D. Bouyer, E. Drioli, N. Tavajohi Hassan Kiadeh, Investigating the potential of membranes formed by the vapor induced phase separation process, J. Membr. Sci. 597 (2020) 117601",
+      "url": ""
+    },
+    {
+      "number": "31",
+      "authors": "C.-L",
+      "title": "Li, D.-M. Wang, A. Deratani, D. Qu´emener, D. Bouyer, J.-Y. Lai, Insight into the preparation of poly(vinylidene fluoride) membranes by vapor-induced phase separation, J. Membr. Sci. 361 (2010) 154–166",
+      "url": ""
+    },
+    {
+      "number": "32",
+      "authors": "J.F",
+      "title": "Su, K.G. Beltsios, P.-H. Li, L.-P. Cheng, Facile formation of symmetric microporous PVDF membranes via vapor-induced phase separation of metastable dopes, Colloids Surf. A Physicochem. Eng. Asp. 634 (2022) 128012",
+      "url": ""
+    },
+    {
+      "number": "33",
+      "authors": "C",
+      "title": "Meringolo, T.F. Mastropietro, T. Poerio, E. Fontananova, G. De Filpo, E. Curcio, G. Di Profio, Tailoring PVDF membranes surface topography and hydrophobicity by a sustainable two-steps phase separation process, ACS Sustain. Chem. Eng. 6 (2018) 10069–10077",
+      "url": ""
+    },
+    {
+      "number": "34",
+      "authors": "A",
+      "title": "Venault, Y. Chang, J.R. Wu, D.M. Wang, Influence of solvent composition and non-solvent activity on the crystalline morphology of PVDF membranes prepared by VIPS process and on their arising mechanical properties, J. Taiwan Inst. Chem. Eng. 45 (2014) 1087–1097",
+      "url": ""
+    },
+    {
+      "number": "35",
+      "authors": "F.A",
+      "title": "AlMarzooqi, M.R. Bilad, H. Arafat, Improving liquid entry pressure of Polyvinylidene fluoride (PVDF) membranes by exploiting the role of fabrication parameters in vapor-induced phase separation VIPS and non-solvent-induced phase separation (NIPS) processes, Appl. Sci. Basel 7 (2017) 181",
+      "url": ""
+    },
+    {
+      "number": "36",
+      "authors": "Y",
+      "title": "Peng, H. Fan, Y. Dong, Y. Song, H. Han, Effects of exposure time on variations in the structure and hydrophobicity of polyvinylidene fluoride membranes prepared via vapor-induced phase separation, Appl. Surf. Sci. 258 (2012) 7872–7881",
+      "url": ""
+    },
+    {
+      "number": "37",
+      "authors": "H",
+      "title": "Fan, Y. Peng, Z. Li, P. Chen, Q. Jiang, S. Wang, Preparation and characterization of hydrophobic PVDF membranes by vapor-induced phase separation and application in vacuum membrane distillation, J. Polym. Res. 20 (2013) 134",
+      "url": ""
+    },
+    {
+      "number": "38",
+      "authors": "F.A",
+      "title": "AlMarzooqi, M.R. Bilad, H.A. Arafat, Development of PVDF membranes for membrane distillation via vapour induced crystallisation, Eur. Polym. J. 77 (2016) 164–173",
+      "url": ""
+    },
+    {
+      "number": "39",
+      "authors": "F",
+      "title": "Abdulla AlMarzooqi, M. Roil Bilad, H. Ali Arafat, Improving liquid entry pressure of polyvinylidene fluoride (PVDF) membranes by exploiting the role of fabrication parameters in vapor-induced phase separation VIPS and non-solvent- induced phase separation (NIPS) processes, Appl. Sci. 7 (2017) 181",
+      "url": ""
+    },
+    {
+      "number": "40",
+      "authors": "Z",
+      "title": "Li, J. Wang, S. Liu, J. Li, Preparation and modification of PVDF membrane via VIPS method for membrane distillation, Appl Water Sci 14 (2024) 127",
+      "url": ""
+    },
+    {
+      "number": "41",
+      "authors": "Z",
+      "title": "Ma, X. Chen, H. Mao, D. Zhang, S. Zhou, M. Li, Y. Zhao, W. Peng, J.H. Xin, Fabrication of monolithic omniphobic PVDF membranes based on particle stacking structure for robust and efficient membrane distillation, Desalination 580 (2024) 117547. A. Venault et al. Desalination 613 (2025) 119029 15",
+      "url": ""
+    },
+    {
+      "number": "42",
+      "authors": "A",
+      "title": "Venault, K.-Y. Chang, I.V. Maggay, Y. Chang, Assessment of the DCMD performances of poly(vinylidene difluoride) vapor-induced phase separation membranes with adjusted wettability via formation process parameter manipulation, Desalination 560 (2023) 116682",
+      "url": ""
+    },
+    {
+      "number": "43",
+      "authors": "H",
+      "title": "Ogihara, J. Okagaki, T. Saji, Facile fabrication of colored Superhydrophobic coatings by spraying a pigment nanoparticle suspension, Langmuir 27 (2011) 9069–9072",
+      "url": ""
+    },
+    {
+      "number": "44",
+      "authors": "J",
+      "title": "Li, H. Wan, Y. Ye, H. Zhou, J. Chen, One-step process to fabrication of transparent superhydrophobic SiO2 paper, Appl. Surf. Sci. 261 (2012) 470–472",
+      "url": ""
+    },
+    {
+      "number": "45",
+      "authors": "M",
+      "title": "Gu, J. Zhang, X. Wang, H. Tao, L. Ge, Formation of poly(vinylidene fluoride) (PVDF) membranes via thermally induced phase separation, Desalination 192 (2006) 160–167",
+      "url": ""
+    },
+    {
+      "number": "46",
+      "authors": "A.C.M",
+      "title": "Franken, J.A.M. Nolten, M.H.V. Mulder, D. Bargeman, C.A. Smolders, Wetting criteria for the applicability of membrane distillation, J. Membr. Sci. 33 (1987) 315–328",
+      "url": ""
+    },
+    {
+      "number": "47",
+      "authors": "N.B",
+      "title": "Vargaftik, B.N. Volkov, L.D. Voljak, International tables of the surface tension of water, J. Phys. Chem. Ref. Data Monogr. 12 (1983) 817–820",
+      "url": ""
+    },
+    {
+      "number": "48",
+      "authors": "Y",
+      "title": "Chen, K.J. Lu, T.-S. Chung, An omniphobic slippery membrane with simultaneous anti-wetting and anti-scaling properties for robust membrane distillation, J. Membr. Sci. 595 (2020) 117572",
+      "url": ""
+    },
+    {
+      "number": "49",
+      "authors": "Y",
+      "title": "Liang, J. Ouyang, H. Wang, W. Wang, P. Chui, K. Sun, Synthesis and characterization of core–shell structured SiO2@YVO4:Yb3+,Er3+ microspheres, Appl. Surf. Sci. 258 (2012) 3689–3694",
+      "url": ""
+    },
+    {
+      "number": "50",
+      "authors": "S.A",
+      "title": "Mirji, Adsorption of octadecyltrichlorosilane on Si(100)/SiO2 and SBA-15, Colloids Surf. A Physicochem. Eng. Asp. 289 (2006) 133–140",
+      "url": ""
+    },
+    {
+      "number": "51",
+      "authors": "G.S",
+      "title": "Ahmed, M. Gilbert, S. Mainprize, M. Rogerson, FTIR analysis of silane grafted high density polyethylene, Plast. Rubber Compos. 38 (2009) 13–20",
+      "url": ""
+    },
+    {
+      "number": "52",
+      "authors": "Y.-R",
+      "title": "Chen, R. Xin, X. Huang, K. Zuo, K.-L. Tung, Q. Li, Wetting-resistant photothermal nanocomposite membranes for direct solar membrane distillation, J. Membr. Sci. 620 (2021) 118913",
+      "url": ""
+    },
+    {
+      "number": "53",
+      "authors": "S.J",
+      "title": "Oh, N. Kim, Y.T. Lee, Preparation and characterization of PVDF/TiO2 organic–inorganic composite membranes for fouling resistance improvement, J. Membr. Sci. 345 (2009) 13–20",
+      "url": ""
+    },
+    {
+      "number": "54",
+      "authors": "A",
+      "title": "Venault, C.-H. Chiang, H.-Y. Chang, W.-S. Hung, Y. Chang, Graphene oxide/ PVDF VIPS membranes for switchable, versatile and gravity-driven separation of oil and water, J. Membr. Sci. 565 (2018) 131–144",
+      "url": ""
+    },
+    {
+      "number": "55",
+      "authors": "L.Y",
+      "title": "Ng, A.W. Mohammad, C.P. Leo, N. Hilal, Polymeric membranes incorporated with metal/metal oxide nanoparticles: a comprehensive review, Desalination 308 (2013) 15–33",
+      "url": ""
+    },
+    {
+      "number": "56",
+      "authors": "L.M",
+      "title": "Jin, S.L. Yu, W.X. Shi, X.S. Yi, N. Sun, Y.L. Ge, C. Ma, Synthesis of a novel composite nanofiltration membrane incorporated SiO2 nanoparticles for oily wastewater desalination, Polymer 53 (2012) 5295–5303",
+      "url": ""
+    },
+    {
+      "number": "57",
+      "authors": "N",
+      "title": "Niksefat, M. Jahanshahi, A. Rahimpour, The effect of SiO2 nanoparticles on morphology and performance of thin film composite membranes for forward osmosis application, Desalination 343 (2014) 140–146",
+      "url": ""
+    },
+    {
+      "number": "58",
+      "authors": "S",
+      "title": "Liang, P. Gao, X. Gao, K. Xiao, X. Huang, Improved blending strategy for membrane modification by virtue of surface segregation using surface-tailored amphiphilic nanoparticles, Front. Environ. Sci. Eng. 10 (2016) 9",
+      "url": ""
+    },
+    {
+      "number": "59",
+      "authors": "Y",
+      "title": "Liu, Z. Zhang, Z. Li, X. Wei, F. Zhao, C. Fan, Z. Jiang, Surface segregation methods toward molecular separation membranes, Small Methods 7 (2023) 2300737",
+      "url": ""
+    },
+    {
+      "number": "60",
+      "authors": "Z.G",
+      "title": "Sun, S.J. Wang, X.J. Qiao, Y. Li, W.H. Zheng, P.Y. Bai, Synthesis and microwave absorbing properties of SiC nanowires, Appl. Phys. A 124 (2018) 802",
+      "url": ""
+    },
+    {
+      "number": "61",
+      "authors": "R",
+      "title": "Zheng, J. Zhuang, X. Liu, S. Zhao, H. Zhang, H. Li, Z. Guo, H. Guo, H. Wang, Z. Ma, Preparation and properties of optoelectronic conversion films of perovskite modified by octadecyl-trichloro silane, Org. Electron. 88 (2021) 106028",
+      "url": ""
+    },
+    {
+      "number": "62",
+      "authors": "K.-Y",
+      "title": "Chan, C.-L. Li, D.-M. Wang, J.-Y. Lai, Formation of porous structures and crystalline phases in poly(vinylidene fluoride) membranes prepared with nonsolvent-induced phase separation—roles of solvent polarity, Polymers 15 (2023) 1314",
+      "url": ""
+    },
+    {
+      "number": "63",
+      "authors": "J",
+      "title": "Chang, J. Zuo, L. Zhang, G.S. O’Brien, T.-S. Chung, Using green solvent, triethyl phosphate (TEP), to fabricate highly porous PVDF hollow fiber membranes for membrane distillation, J. Membr. Sci. 539 (2017) 295–304",
+      "url": ""
+    },
+    {
+      "number": "64",
+      "authors": "A.B.D",
+      "title": "Cassie, S. Baxter, Wettability of porous surfaces, Trans. Faraday Soc. 40 (1944) 546–551",
+      "url": ""
+    },
+    {
+      "number": "65",
+      "authors": "M",
+      "title": "Zhu, Y. Mao, Large-pore-size membranes tuned by chemically vapor deposited nanocoatings for rapid and controlled desalination, RSC Adv. 10 (2020) 40562–40568",
+      "url": ""
+    },
+    {
+      "number": "66",
+      "authors": "M",
+      "title": "Qtaishat, T. Matsuura, B. Kruczek, M. Khayet, Heat and mass transfer analysis in direct contact membrane distillation, Desalination 219 (2008) 272–292",
+      "url": ""
+    },
+    {
+      "number": "67",
+      "authors": "M.B",
+      "title": "Abid, L. Gzara, R.A. Wahab, I.A. Moujdin, N. Baig, A. Shamim, M.A. Salam, Surface modification for enhanced anti-wetting properties of electrospun omniphobic membranes in membrane distillation, J. Appl. Polym. Sci. 141 (2024) e55739",
+      "url": ""
+    },
+    {
+      "number": "68",
+      "authors": "R.A",
+      "title": "Nuaimi, R.L. Thankamony, J.-P.B. Boross de Levay, B. Yuan, Z. Lai, Uniformly porous PVDF-co-HFP membranes prepared by mixed solvent phase separation for direct contact membrane distillation, J. Membr. Sci. 711 (2024) 123175",
+      "url": ""
+    },
+    {
+      "number": "69",
+      "authors": "Y.-H",
+      "title": "Huang, M.-J. Wang, T.-S. Chung, Development of multifunctional membranes via plasma-assisted nonsolvent induced phase separation, Nat. Commun. 15 (2024) 1092",
+      "url": ""
+    },
+    {
+      "number": "70",
+      "authors": "M",
+      "title": "Essalhi, N.U. Afsar, D. Bouyer, O. Sundman, M. Holmboe, M. Khayet, M. Jonsson, N. Tavajohi, Gamma-irradiated janus electrospun nanofiber membranes for desalination and nuclear wastewater treatment, J. Membr. Sci. 700 (2024) 122726",
+      "url": ""
+    },
+    {
+      "number": "71",
+      "authors": "R",
+      "title": "Ouchn, Y. Chaouqi, S. Oukkass, I. Mechnou, I. Mourtah, E. Curcio, M. Hlaibi, Ionic liquids and activated carbon: effective materials for the sustainable production of fresh water from salt effluents (BRINE), ACS Sustain. Chem. Eng. 12 (2024) 1195–1206",
+      "url": ""
+    },
+    {
+      "number": "72",
+      "authors": "Y.-S",
+      "title": "Hu, S.-C. Ke, Y.-X. Huang, Simultaneous fouling and scaling-resistant membrane based on glutamic acid grafting for robust membrane distillation, Desalination 587 (2024) 117948",
+      "url": ""
+    },
+    {
+      "number": "73",
+      "authors": "A.S",
+      "title": "Niknejad, Z.B.A. Maleki, A. Kargari, M. Rasouli, SAN-including PVDF membranes with improved permeability for hypersaline water desalination using DCMD process, Desalination 572 (2024) 117151",
+      "url": ""
+    },
+    {
+      "number": "74",
+      "authors": "J",
+      "title": "Nambikkattu, N. Jacob Kaleekkal, Investigating the performance of surface- engineered membranes for direct contact membrane distillation, Sep. Sci. Technol. 58 (2023) 1145–1161",
+      "url": ""
+    },
+    {
+      "number": "75",
+      "authors": "J",
+      "title": "Xiang, S. Wang, N. Chen, X. Wen, G. Tian, L. Zhang, P. Cheng, J. Zhang, N. Tang, Study on low thermal-conductivity of PVDF@SiAG/PET membranes for direct contact membrane distillation application, Membranes 13 (2023) 773",
+      "url": ""
+    },
+    {
+      "number": "76",
+      "authors": "B",
+      "title": "Li, T. Tian, X. Zhang, C. Han, Y. Yun, X. Zhu, J. Wu, Mussels-inspired design a multi-level micro/nano re-entrant structure amphiphobic PVDF membrane with robust anti-fouling for direct contact membrane distillation, Desalination 565 (2023) 116857",
+      "url": ""
+    },
+    {
+      "number": "77",
+      "authors": "J",
+      "title": "Bose, L. Marchio, U. Adhikari, D. Datta, J. Sikder, Synthesis and characterization of polyvinylidene fluoride/functionalized silicon carbide nanocomposite membrane for water treatment, J. Polym. Res. 30 (2023) 246",
+      "url": ""
+    },
+    {
+      "number": "78",
+      "authors": "R",
+      "title": "Ouchn, Y. Chaouqi, R. Louafy, A.H. Avci, E. Curcio, S. Santoro, O. Cherkaoui, M. Hlaibi, Polymer inclusion membranes with long term-stability in desalination via membrane distillation, Chem. Eng. Process. Process Intensif. 191 (2023) 109442",
+      "url": ""
+    },
+    {
+      "number": "79",
+      "authors": "C",
+      "title": "Hou, L. Du, Y. Li, M. Guo, J. Zhou, S. Qiao, Superhydrophobic PVDF membrane formed by crystallization process for direct contact membrane distillation, iScience 26 (2023) 106464",
+      "url": ""
+    },
+    {
+      "number": "80",
+      "authors": "M",
+      "title": "Essalhi, M. Khayet, A.B. Yavuz, L.R. de la Rosa, M.C. García-Payo, N. Tavajohi, Development of a Lycopodium powder-based superhydrophobic nanofiber membrane suitable for desalination, Sep. Purif. Technol. 323 (2023) 124405",
+      "url": ""
+    },
+    {
+      "number": "81",
+      "authors": "D",
+      "title": "Fontana, F. Forte, M. Pietrantonio, S. Pucciarmati, C. Marcoaldi, Magnesium recovery from seawater desalination brines: a technical review, Environ. Dev. Sustain. 25 (2023) 13733–13754",
+      "url": ""
+    },
+    {
+      "number": "82",
+      "authors": "G.A",
+      "title": "Riley, Particulate organic matter in sea water, in: F.S. Russell, M. Yonge (Eds.), Advances in Marine Biology, Academic Press, 1971, pp. 1–118",
+      "url": ""
+    },
+    {
+      "number": "83",
+      "authors": "A",
+      "title": "Dastbaz, J. Karimi-Sabet, H. Ahadi, Y. Amini, Preparation and characterization of novel modified PVDF-HFP/GO/ODS composite hollow fiber membrane for Caspian Sea water desalination, Desalination 424 (2017) 62–73",
+      "url": ""
+    },
+    {
+      "number": "84",
+      "authors": "L",
+      "title": "Song, Z. Ma, X. Liao, P.B. Kosaraju, J.R. Irish, K.K. Sirkar, Pilot plant studies of novel membranes and devices for direct contact membrane distillation-based desalination, J. Membr. Sci. 323 (2008) 257–270",
+      "url": ""
+    },
+    {
+      "number": "85",
+      "authors": "L",
+      "title": "Francis, N. Ghaffour, A.S. Alsaadi, S.P. Nunes, G.L. Amy, Performance evaluation of the DCMD desalination process under bench scale and large scale module operating conditions, J. Membr. Sci. 455 (2014) 103–112",
+      "url": ""
+    },
+    {
+      "number": "86",
+      "authors": "W",
+      "title": "Tomczak, M. Gryta, Membrane distillation of saline water contaminated with oil and surfactants, Membranes 11 (2021) 988",
+      "url": ""
+    },
+    {
+      "number": "87",
+      "authors": "L",
+      "title": "Dum´ee, K. Sears, J. Schütz, N. Finn, M. Duke, S. Gray, Carbon nanotube based composite membranes for water desalination by membrane distillation, Desalin. Water Treat. 17 (2010) 72–79",
+      "url": ""
+    },
+    {
+      "number": "88",
+      "authors": "L",
+      "title": "Francis, N. Ghaffour, A.S. Al-Saadi, G.L. Amy, Submerged membrane distillation for seawater desalination, Desalin. Water Treat. 55 (2015) 2741–2746",
+      "url": ""
+    },
+    {
+      "number": "89",
+      "authors": "H",
+      "title": "Elcik, A. Alpatova, G. Gonzalez-Gil, B. Blankert, N. Farhat, N.A. Amin, J. S. Vrouwenvelder, N. Ghaffour, Elucidating biofouling over thermal and spatial gradients in seawater membrane distillation in hot climatic conditions, Water Res. 223 (2022) 118983",
+      "url": ""
+    },
+    {
+      "number": "90",
+      "authors": "H",
+      "title": "Maab, A. Al Saadi, L. Francis, S. Livazovic, N. Ghafour, G.L. Amy, S.P. Nunes, Polyazole hollow fiber membranes for direct contact membrane distillation, Ind. Eng. Chem. Res. 52 (2013) 10425–10429",
+      "url": ""
+    },
+    {
+      "number": "91",
+      "authors": "H",
+      "title": "Maab, L. Francis, A. Al-saadi, C. Aubry, N. Ghaffour, G. Amy, S.P. Nunes, Synthesis and fabrication of nanostructured hydrophobic polyazole membranes for low-energy water recovery, J. Membr. Sci. 423-424 (2012) 11–19",
+      "url": ""
+    },
+    {
+      "number": "92",
+      "authors": "D.S",
+      "title": "Marques, G. Raynel, D. Al-Saeed, M. Al-Thabet, Effects of sour oilfield produced water on direct contact membrane distillation systems, Mater. Chem. Phys. 277 (2022) 125593",
+      "url": ""
+    },
+    {
+      "number": "93",
+      "authors": "I.T",
+      "title": "Cousins, J.H. Johansson, M.E. Salter, B. Sha, M. Scheringer, Outside the safe operating space of a new planetary boundary for per- and polyfluoroalkyl substances (PFAS), Environ. Sci. Technol. 56 (2022) 11172–11179",
+      "url": ""
+    },
+    {
+      "number": "94",
+      "authors": "F",
+      "title": "Wang, K. Shih, Adsorption of perfluorooctanesulfonate (PFOS) and perfluorooctanoate (PFOA) on alumina: influence of solution pH and cations, Water Res. 45 (2011) 2925–2930",
+      "url": ""
+    },
+    {
+      "number": "95",
+      "authors": "C",
+      "title": "Ying Shi, G. Chen, L.F. Dum´ee, Perfluoroalkyl substances concentration from groundwater via direct contact membrane distillation, Npj Clean Water 7 (2024) 115",
+      "url": ""
+    },
+    {
+      "number": "96",
+      "authors": "E",
+      "title": "Curcio, E. Fontananova, G. Di Profio, E. Drioli, Influence of the structural properties of poly(vinylidene fluoride) membranes on the heterogeneous nucleation rate of protein crystals, J. Phys. Chem. B 110 (2006) 12438–12445",
+      "url": ""
+    },
+    {
+      "number": "97",
+      "authors": "Y.-X",
+      "title": "Huang, D.-Q. Liang, C.-H. Luo, Y. Zhang, F. Meng, Liquid-like surface modification for effective anti-scaling membrane distillation with uncompromised flux, J. Membr. Sci. 637 (2021) 119673",
+      "url": ""
+    },
+    {
+      "number": "98",
+      "authors": "D",
+      "title": "Xu, Z. Zhu, G. Tan, X. Xue, J. Li, Mechanism insight into gypsum scaling of differently wettable membrane surfaces with antiscalants in membrane distillation, J. Membr. Sci. 652 (2022) 120499. A. Venault et al. Desalination 613 (2025) 119029 16",
+      "url": ""
+    },
+    {
+      "number": "99",
+      "authors": "B",
+      "title": "Cao, A. Ansari, X. Yi, D.F. Rodrigues, Y. Hu, Gypsum scale formation on graphene oxide modified reverse osmosis membrane, J. Membr. Sci. 552 (2018) 132–143",
+      "url": ""
+    },
+    {
+      "number": "100",
+      "authors": "W.-Y",
+      "title": "Shih, A. Rahardianto, R.-W. Lee, Y. Cohen, Morphometric characterization of calcium sulfate dihydrate (gypsum) scale on reverse osmosis membranes, J. Membr. Sci. 252 (2005) 253–263",
+      "url": ""
+    },
+    {
+      "number": "101",
+      "authors": "M.M.A",
+      "title": "Shirazi, A. Kargari, M. Tabatabaei, Evaluation of commercial PTFE membranes in desalination by direct contact membrane distillation, Chem. Eng. Process. Process Intensif. 76 (2014) 16–25",
+      "url": ""
+    },
+    {
+      "number": "102",
+      "authors": "M",
+      "title": "Sabzekar, M. Pourafshari Chenar, Z. Maghsoud, O. Mostaghisi, M.C. García- Payo, M. Khayet, Cyclic olefin polymer as a novel membrane material for membrane distillation applications, J. Membr. Sci. 621 (2021) 118845. A. Venault et al. Desalination 613 (2025) 119029 17",
+      "url": ""
+    }
+  ],
+  "generatedFrom": "v3"
+}
